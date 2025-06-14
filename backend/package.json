@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "dotenv": "^16.5.0"
-=======
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
@@ -19,6 +15,5 @@
     "express": "^5.1.0",
     "mysql2": "^3.14.1",
     "pg": "^8.16.0"
->>>>>>> 2a4b842 (Backend setup)
   }
 }
